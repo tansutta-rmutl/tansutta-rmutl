@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **123popiang@gmail.com**
 
+- 🏆 i used to write a program about online learning for student and won 2nd place
+
+- 🖥️ i would prefer to be a frontend developer 
+
 - ⚡ Fun fact **i like to converse with other people and i know how to speak english**
 
 <h3 align="left">Connect with me:</h3>
