@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tansutta suttabut</h1>
-<h3 align="center">a studying programmer and coder</h3>
+<h3 align="center">an inspiring programmer and coder student </h3>
 
 - 🌱 I’m currently learning **C++,html,java**
 
